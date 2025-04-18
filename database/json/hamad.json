@@ -1,0 +1,58 @@
+[
+    {
+        "name": "John Doe",
+        "father_name": "Michael Doe",
+        "email": "john@example.com",
+        "address": "123 Main St",
+        "city": "New York",
+        "password": "password123",
+        "age": 30
+    },
+    {
+        "name": "Jane Smith",
+        "father_name": "Robert Smith",
+        "email": "jane@example.com",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "password": "password456",
+        "age": 28
+    },
+    {
+        "name": "Sam Johnson",
+        "father_name": "William Johnson",
+        "email": "sam@example.com",
+        "address": "789 Pine St",
+        "city": "Chicago",
+        "password": "password789",
+        "age": 35
+    },
+    
+        {
+            "name": "Naeem Abbas",
+            "father_name": "Matloob Hussain",
+            "email": "naeemabbas@gmail.com",
+            "address": "Mohallah jafferia Suraj mini Multan",
+            "city": "Multan",
+            "password": "363024380973",
+            "age": 25
+        },
+        {
+            "name": "Ali Haider",
+            "father_name": "Zuhair abbas",
+            "email": "ali@gmail.com",
+            "address": "Chungi No 09 Multan",
+            "city": "Lahore",
+            "password": "78635646756",
+            "age": 28
+        },
+        {
+            "name": "Faheem Abbas",
+            "father_name": "Muhammad Raza",
+            "email": "faheem@gmail.com",
+            "address": "LMQ road chungi no 7 new share Multan",
+            "city": "Multan",
+            "password": "7598798757",
+            "age": 35
+        }    
+    
+]
